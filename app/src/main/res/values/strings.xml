@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidSplash</string>
+    <string name="youth_gone_wild">Youth Gone Wild</string>
+    <string name="todo">TODO</string>
+    <string name="hallo_selamat_datang_kembali">Hallo, Selamat datang kembali</string>
+    <string name="masuk_untuk_melanjutkan">masuk untuk melanjutkan</string>
+    <string name="username">username</string>
+    <string name="Username">Username</string>
+    <string name="password">Password</string>
+    <string name="lupa_kata_sandi">Lupa Kata Sandi?</string>
+    <string name="go">GO</string>
+    <string name="pengguna_baru_daftar_sekarang">Pengguna Baru? DAFTAR SEKARANG</string>
+</resources>
